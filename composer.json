@@ -1,5 +1,5 @@
 {
-    "name": "matmar10/x-rates-screen-scraper",
+    "name": "matmar10/the-money-converter-screen-scraper",
     "description": "A simple screen scraper to get a currency exchange rate from X-Rates.com",
     "type": "lib",
     "repositories": [
